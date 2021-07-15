@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132467348439",
+    "project_id": "nini-app-71b45",
+    "storage_bucket": "nini-app-71b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132467348439:android:185db9e584135f402a7192",
+        "android_client_info": {
+          "package_name": "com.nini_social_app_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132467348439-g14l4vskjrr9tb96qhps2adr9rktk2il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXi82836hNlr2fi0ggqSes5pSd0cNOaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132467348439-g14l4vskjrr9tb96qhps2adr9rktk2il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
